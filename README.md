@@ -1,7 +1,7 @@
 # bPHP
 Do not bother your script, use Bootstrap.PHP
 ---------------------------------------------------
-Connect bPHP:
+Connect bPHP: <br>
 Paste this script on the head HTML tag.
 ```php
 <?php

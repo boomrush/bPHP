@@ -12,6 +12,20 @@ include 'bphp/bphp.php';
 # Components
 ## Alert
 Types:<br>
+### warning
+### info
+### success
+### error
+---------------------------------------------------
+Usage:<br>
+```php
+<? 
+$bphp->alert('type', 'text'); 
+?>
+```
+---------------------------------------------------
+## Badge
+Types:<br>
 ### default
 ### primary
 ### success
@@ -22,6 +36,6 @@ Types:<br>
 Usage:<br>
 ```php
 <? 
-$bphp->alert('type', 'text'); 
+$bphp->badge('type', 'text'); 
 ?>
 ```

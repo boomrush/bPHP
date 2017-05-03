@@ -1,8 +1,8 @@
 <?
 /*
 bPHP - Bootstrap PHP Language by SM Corp.
+-----
 Russian language version
-
 -----
 Version: rel. 1.0
 -----

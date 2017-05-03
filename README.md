@@ -12,7 +12,7 @@ include 'bphp/bphp.php';
 # Components
 ## Alert
 Types:<br>
-### Default
+### default
 ### primary
 ### success
 ### info

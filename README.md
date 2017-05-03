@@ -12,7 +12,7 @@ include 'bphp/bphp.php';
 ---------------------------------------------------
 # Components
 ---------------------------------------------------
-Alert<br>
+## Alert
 Types:<br>
 <li>Default</li>
 <li>primary</li>
@@ -20,6 +20,10 @@ Types:<br>
 <li>info</li>
 <li>warning</li>
 <li>danger</li>
+---------------------------------------------------
+Usage:<br>
 ```php
-<? $bphp->alert('type', 'text'); ?>
+<? 
+$bphp->alert('type', 'text'); 
+?>
 ```

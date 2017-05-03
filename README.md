@@ -19,7 +19,7 @@ Types:<br>
 <li>success</li>
 <li>info</li>
 <li>warning</li>
-<li>danger</li>
+<li>danger</li><br>
 ---------------------------------------------------
 Usage:<br>
 ```php
